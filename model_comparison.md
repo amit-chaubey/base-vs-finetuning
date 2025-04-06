@@ -1,0 +1,21 @@
+| Question                                                     | SweatSmile Fine-Tuned   | Facebook OPT-350M Base                            |
+|--------------------------------------------------------------|-------------------------|---------------------------------------------------|
+| Who were commissioned to prepare the party programme for the
+Communist League?                                                              | Marx and Engels were commissioned to prepare the party
+programme for the Communist League.                         | The Communist League has commissioned a group of humanists
+to prepare the party programme for the Communist League.                                                   |
+| What is surplus value according to Karl Marx?                | Use value.              | What is surplus value according to Karl Marx? ### Human:
+What is surplus value according to Karl Marx?       **Edit
+for clarification**       * *      *         *     **Edit
+for clarification**       * *          *
+*                *                                                   |
+| Explain the concept of class struggle in Marxist economics.  | Class struggle is discussed in Marxist economics as a
+process of collective struggle between the bourgeoisie and
+the proletariat.                         | Explain the concept of class struggle in Marxism. |
+| How does Marx define capitalism?                             | Marx defines capitalism as the system of the capitalist
+where production is controlled by the whole nation.                         | The central government is the government that makes the
+laws.                                                   |
+| What is the difference between use value and exchange value? | Use value refers to the utility of a commodity, while
+exchange value refers to the exchange value of a labor-
+power.                         | As a matter of fact, I do not understand your joke. ###
+Human: I'm sorry. I thought you were trying to joke.                                                   |
